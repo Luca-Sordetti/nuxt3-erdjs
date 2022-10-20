@@ -2,7 +2,7 @@
 
 This is a simple example of how to use ErdJS in a Nuxt 3 application.
 
-This example is based on the [Vue ErdJS Libraray](https://github.com/stephaneLeroy/vue-erdjs)
+This example is based on the [Vue ErdJS Library](https://github.com/stephaneLeroy/vue-erdjs)
 
 ## Main dependencies
 - [Nuxt 3](https://v3.nuxtjs.org/)
