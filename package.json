@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.0.1",
+    "nuxt": "3.0.0-rc.12"
+  },
+  "dependencies": {
+    "@elrondnetwork/erdjs": "^11.1.1",
+    "@esbuild-plugins/node-modules-polyfill": "^0.1.4",
+    "qr-code-styling": "^1.6.0-rc.1",
+    "qrcode": "^1.5.1",
+    "rollup-plugin-node-polyfills": "^0.2.1",
+    "sass": "^1.55.0",
+    "vue-erdjs": "^1.0.0-vue3-erdjs11-rc2"
+  }
+}
