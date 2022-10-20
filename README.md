@@ -1,6 +1,14 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 - ErdJS
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+This is a simple example of how to use ErdJS in a Nuxt 3 application.
+
+This example is based on the [Vue ErdJS Libraray](https://github.com/stephaneLeroy/vue-erdjs)
+
+## Main dependencies
+- [Nuxt 3](https://v3.nuxtjs.org/)
+- [Vue ErdJS](https://github.com/stephaneLeroy/vue-erdjs)
+- [TailwindCSS](https://tailwindcss.com/)
+- [@elrondnetwork/erdjs](https://github.com/ElrondNetwork/elrond-sdk-erdjs)
 
 ## Setup
 
